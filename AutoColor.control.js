@@ -4,7 +4,7 @@
 
 loadAPI (2);
 
-host.defineController ("Moss", "Auto Color", "1.0", "6AE1A164-EA17-11E6-B006-92361F002671", "Jürgen Moßgraber");
+host.defineController ("Moss", "Auto Color - OLD", "1.0", "6AE1A164-EA17-11E6-B006-92361F002672", "Jürgen Moßgraber");
 host.defineMidiPorts (0, 0);
 
 const MAX_TRACKS = 100;
